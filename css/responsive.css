@@ -89,11 +89,11 @@
   }
 
   .bubble4 {
-    margin-right: 5vh;
+    margin-right: 10vh;
   }
 
   .bubble5 {
-    margin-left: 1vh;
+    margin-left: 10vh;
   }
 
   .social {
@@ -128,7 +128,7 @@
 
   .instagram {
     bottom: 14vh;
-    left: -29.5vh;
+    left: -30.5vh;
   }
 
   .penguin-thinking {
@@ -145,6 +145,12 @@
   .kofi,
   .twitter {
     left: 12vh;
+  }
+
+  @-moz-document url-prefix() {
+    .orange-border {
+      border: 1vh solid #f0a85dff;
+    }
   }
 
   .medium-circle {
