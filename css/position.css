@@ -67,35 +67,24 @@
   right: -56vh;
 }
 
-.bubble4 {
-  bottom: 58vh;
-  right: 11vh;
-  z-index: 5;
-}
-
-.bubble5 {
-  bottom: 48vh;
-  right: 8vh;
-}
-
 .twitter {
-  bottom: 46.5vh;
+  bottom: 43vh;
   left: 2vh;
 }
 
 .linkedin {
-  bottom: 33vh;
-  left: 17vh;
+  bottom: 30vh;
+  left: 16vh;
 }
 
 .kofi {
   bottom: 12vh;
-  left: 29vh;
+  left: 28vh;
 }
 
 .facebook {
-  bottom: 41vh;
-  left: -26.5vh;
+  bottom: 38vh;
+  left: -25vh;
 }
 
 .github {
