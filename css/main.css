@@ -162,8 +162,13 @@
 }
 
 .penguin-container {
-  padding-right: 3.5vh;
+  padding-right: 2.5vh;
   height: 57vh;
+}
+
+.extra-bubbles {
+  top: -6.5vh;
+  height: 23vh;
 }
 
 .penguin-thinking {

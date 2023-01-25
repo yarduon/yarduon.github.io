@@ -83,14 +83,17 @@
     right: -62vh;
   }
 
+  .extra-bubbles {
+    top: -8vh;
+    height: 24vh;
+  }
+
   .bubble4 {
-    bottom: 53vh;
-    right: -1vh;
+    margin-right: 5vh;
   }
 
   .bubble5 {
-    bottom: 42vh;
-    right: -1.5vh;
+    margin-left: 1vh;
   }
 
   .social {
@@ -99,32 +102,32 @@
   }
 
   .twitter {
-    bottom: 32vh;
-    left: 5vh;
+    bottom: 41vh;
+    left: 8vh;
   }
 
   .linkedin {
-    bottom: 20vh;
-    left: 15vh;
+    bottom: 29vh;
+    left: 14vh;
   }
 
   .kofi {
-    bottom: 5vh;
-    left: 23vh;
+    bottom: 18vh;
+    left: 21.5vh;
   }
 
   .facebook {
-    bottom: 31vh;
+    bottom: 38vh;
     left: -21vh;
   }
 
   .github {
-    bottom: 18vh;
+    bottom: 25vh;
     left: -27vh;
   }
 
   .instagram {
-    bottom: 7vh;
+    bottom: 14vh;
     left: -29.5vh;
   }
 
@@ -134,9 +137,9 @@
 }
 
 @media screen and (max-width: 75vh) {
-  .social {
-    width: 6vh;
-    height: 6vh;
+  .bubble4,
+  .bubble5 {
+    margin: 0;
   }
 
   .kofi,
@@ -160,7 +163,7 @@
 
   .bubble-text {
     top: 9vh;
-    margin: 0vh 2.5vh 0 2.5vh;
+    padding: 0vh 2.5vh 0 2.5vh;
   }
 
   .bubble1 {
@@ -177,6 +180,11 @@
 
   .penguin-container {
     padding-right: 0;
+  }
+
+  .social {
+    width: 6vh;
+    height: 6vh;
   }
 
   .twitter {
