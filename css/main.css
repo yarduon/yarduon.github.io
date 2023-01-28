@@ -1,4 +1,10 @@
 /* https://yarduon.com */
+.social,
+li {
+  width: 10vh;
+  height: 10vh;
+}
+
 .max-width {
   width: 100%;
 }
@@ -190,8 +196,6 @@
 }
 
 .social {
-  width: 10vh;
-  height: 10vh;
   filter: drop-shadow(0.65vh 0.65vh 0 white);
 }
 

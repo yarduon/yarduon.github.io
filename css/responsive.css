@@ -1,19 +1,4 @@
 /* https://yarduon.com */
-@media screen and (max-width: 1400px) {
-  .normal-fontsize-spec {
-    font-size: 2.9vh;
-  }
-
-  @-moz-document url-prefix() {
-    .normal-fontsize-spec {
-      font-size: 2.7vh;
-    }
-  }
-  .bubble-text {
-    width: auto;
-    text-align: justify;
-  }
-}
 
 @media screen and (max-width: 1100px) {
   .huge-fontsize {
@@ -63,6 +48,22 @@
 }
 
 /* Under construction screen */
+@media screen and (max-width: 150vh) {
+  .normal-fontsize-spec {
+    font-size: 2.9vh;
+  }
+
+  @-moz-document url-prefix() {
+    .normal-fontsize-spec {
+      font-size: 2.7vh;
+    }
+  }
+  .bubble-text {
+    width: auto;
+    text-align: justify;
+  }
+}
+
 @media screen and (max-width: 130vh) {
   .bubble-container {
     height: 25vh;
@@ -82,16 +83,16 @@
   }
 
   .extra-bubbles {
-    top: -6.5vh;
-    height: 25vh;
+    top: -4.5vh;
+    height: 20vh;
   }
 
   .bubble4 {
-    margin-right: 0;
+    margin-right: 0vh;
   }
 
   .bubble5 {
-    margin-left: 10.5vh;
+    margin-left: 6.8vh;
   }
 
   .social {
@@ -100,33 +101,33 @@
   }
 
   .twitter {
-    bottom: 35vh;
+    bottom: 34vh;
     left: 9vh;
   }
 
   .linkedin {
-    bottom: 24vh;
-    left: 19vh;
+    bottom: 23vh;
+    left: 18vh;
   }
 
   .kofi {
-    bottom: 13vh;
-    left: 25vh;
+    bottom: 10vh;
+    left: 23vh;
   }
 
   .facebook {
-    bottom: 37vh;
+    bottom: 36vh;
     left: -19vh;
   }
 
   .github {
-    bottom: 24.5vh;
-    left: -28vh;
+    bottom: 23vh;
+    left: -26.5vh;
   }
 
   .instagram {
-    bottom: 14vh;
-    left: -33vh;
+    bottom: 12vh;
+    left: -29.5vh;
   }
 
   .penguin-thinking {
@@ -192,33 +193,33 @@
   }
 
   .twitter {
-    left: 13vh;
-    bottom: 37vh;
+    left: 14vh;
+    bottom: 33.5vh;
   }
 
   .linkedin {
-    bottom: 29vh;
-    left: 8vh;
+    bottom: 25.5vh;
+    left: 9vh;
   }
 
   .kofi {
-    bottom: 21vh;
-    left: 14vh;
+    bottom: 18vh;
+    left: 15vh;
   }
 
   .facebook {
-    bottom: 38vh;
-    left: -20vh;
+    bottom: 34vh;
+    left: -20.5vh;
   }
 
   .github {
-    bottom: 27.5vh;
+    bottom: 24.5vh;
     left: -15vh;
   }
 
   .instagram {
-    bottom: 21.5vh;
-    left: -20vh;
+    bottom: 17.5vh;
+    left: -21vh;
   }
 
   .penguin-thinking {
