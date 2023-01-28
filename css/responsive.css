@@ -65,6 +65,11 @@
 }
 
 @media screen and (max-width: 130vh) {
+  .linkedin,
+  .github {
+    bottom: 23vh;
+  }
+
   .bubble-container {
     height: 25vh;
     padding-right: 0;
@@ -106,7 +111,6 @@
   }
 
   .linkedin {
-    bottom: 23vh;
     left: 18vh;
   }
 
@@ -121,7 +125,6 @@
   }
 
   .github {
-    bottom: 23vh;
     left: -26.5vh;
   }
 
@@ -187,6 +190,11 @@
     padding-right: 0;
   }
 
+  .extra-bubbles {
+    top: -1.5vh;
+    height: 18vh;
+  }
+
   .social {
     width: 6vh;
     height: 6vh;
@@ -225,14 +233,9 @@
   .penguin-thinking {
     width: 32vh;
   }
-
-  .extra-bubbles {
-    top: -1.5vh;
-    height: 18vh;
-  }
 }
 
-@media screen and (max-height: 15rem) {
+@media screen and (max-height: 200px) {
   .bubble-container,
   .penguin-container {
     display: none;
