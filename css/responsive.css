@@ -204,7 +204,7 @@
 
   .kofi {
     bottom: 18vh;
-    left: 15vh;
+    left: 14.5vh;
   }
 
   .facebook {
@@ -219,7 +219,7 @@
 
   .instagram {
     bottom: 17.5vh;
-    left: -22vh;
+    left: -21.5vh;
   }
 
   .penguin-thinking {
@@ -229,5 +229,12 @@
   .extra-bubbles {
     top: -1.5vh;
     height: 18vh;
+  }
+}
+
+@media screen and (max-height: 15rem) {
+  .bubble-container,
+  .penguin-container {
+    display: none;
   }
 }
