@@ -1,10 +1,4 @@
 /* https://yarduon.com */
-.medium-circle,
-.social {
-  width: 10vh;
-  height: 10vh;
-}
-
 .max-width {
   width: 100%;
 }
@@ -22,9 +16,14 @@
   height: 50vh;
 }
 
+.medium-circle {
+  width: 9vh;
+  height: 9vh;
+}
+
 .small-circle {
-  width: 7vh;
-  height: 7vh;
+  width: 6vh;
+  height: 6vh;
 }
 
 .darker-black {
@@ -175,7 +174,7 @@
 }
 
 .bubble4 {
-  margin-right: 11vh;
+  margin-right: 10vh;
 }
 
 .bubble5 {
@@ -191,6 +190,8 @@
 }
 
 .social {
+  width: 10vh;
+  height: 10vh;
   filter: drop-shadow(0.65vh 0.65vh 0 white);
 }
 
