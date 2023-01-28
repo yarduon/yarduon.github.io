@@ -23,13 +23,13 @@ li {
 }
 
 .medium-circle {
-  width: 9vh;
-  height: 9vh;
+  width: 8.5vh;
+  height: 8.5vh;
 }
 
 .small-circle {
-  width: 6vh;
-  height: 6vh;
+  width: 5.5vh;
+  height: 5.5vh;
 }
 
 .darker-black {
@@ -180,7 +180,7 @@ li {
 }
 
 .extra-bubbles {
-  height: 20vh;
+  height: 18vh;
 }
 
 .bubble4 {
