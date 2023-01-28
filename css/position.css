@@ -48,6 +48,10 @@
   position: relative;
 }
 
+.invisible{
+  z-index: -1;
+}
+
 .credits {
   right: 0;
 }
