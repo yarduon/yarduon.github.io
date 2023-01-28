@@ -48,10 +48,6 @@
   position: relative;
 }
 
-.invisible{
-  z-index: -1;
-}
-
 .credits {
   right: 0;
 }
@@ -72,7 +68,7 @@
 }
 
 .extra-bubbles {
-  top: -4.5vh;
+  top: -4vh;
 }
 
 .twitter {

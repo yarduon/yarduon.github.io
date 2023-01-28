@@ -64,6 +64,10 @@ li {
   overflow-x: hidden;
 }
 
+.invisible{
+  opacity: 0;
+}
+
 .mano-negra {
   font-family: "Mano Negra";
 }
