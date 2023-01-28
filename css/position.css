@@ -67,34 +67,38 @@
   right: -56vh;
 }
 
+.extra-bubbles {
+  top: -7vh;
+}
+
 .twitter {
-  bottom: 45vh;
+  bottom: 43vh;
   left: 4vh;
 }
 
 .linkedin {
   bottom: 30vh;
-  left: 19vh;
+  left: 15vh;
 }
 
 .kofi {
   bottom: 12vh;
-  left: 28vh;
+  left: 25vh;
 }
 
 .facebook {
   bottom: 38vh;
-  left: -27vh;
+  left: -24vh;
 }
 
 .github {
   bottom: 23vh;
-  left: -32vh;
+  left: -30vh;
 }
 
 .instagram {
-  bottom: 11vh;
-  left: -38.5vh;
+  bottom: 12vh;
+  left: -36vh;
 }
 
 .penguin-thinking {
