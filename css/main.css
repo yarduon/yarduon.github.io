@@ -171,19 +171,19 @@
 }
 
 .extra-bubbles {
-  height: 21vh;
+  height: 20vh;
 }
 
 .bubble4 {
-  margin-right: 23vh;
-}
-
-.bubble5 {
   margin-right: 11vh;
 }
 
+.bubble5 {
+  margin-right: 7vh;
+}
+
 .penguin-thinking {
-  width: 46vh;
+  width: 45vh;
 }
 
 .social-media {
