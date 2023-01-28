@@ -1,8 +1,8 @@
 /* https://yarduon.com */
 .medium-circle,
 .social {
-  width: 11vh;
-  height: 11vh;
+  width: 10vh;
+  height: 10vh;
 }
 
 .max-width {
@@ -23,8 +23,8 @@
 }
 
 .small-circle {
-  width: 8vh;
-  height: 8vh;
+  width: 7vh;
+  height: 7vh;
 }
 
 .darker-black {
@@ -157,8 +157,12 @@
 }
 
 .bubble-container {
-  height: 15vh;
+  height: 14vh;
   padding-right: 50vh;
+}
+
+.bubble-text {
+  margin-bottom: 1.5vh;
 }
 
 .penguin-container {
@@ -168,7 +172,7 @@
 
 .extra-bubbles {
   top: -8vh;
-  height: 22vh;
+  height: 21vh;
 }
 
 .bubble4 {
