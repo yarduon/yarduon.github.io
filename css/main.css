@@ -1,4 +1,9 @@
 /* https://yarduon.com */
+.big-circle,
+.social-media {
+  height: 50vh;
+}
+
 .social,
 li {
   width: 10vh;
@@ -19,7 +24,6 @@ li {
 
 .big-circle {
   width: 50vh;
-  height: 50vh;
 }
 
 .medium-circle {
@@ -64,7 +68,7 @@ li {
   overflow-x: hidden;
 }
 
-.invisible{
+.invisible {
   opacity: 0;
 }
 
@@ -193,10 +197,6 @@ li {
 
 .penguin-thinking {
   width: 45vh;
-}
-
-.social-media {
-  height: 50vh;
 }
 
 .social {

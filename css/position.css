@@ -16,6 +16,11 @@
   bottom: 0;
 }
 
+.kofi,
+.instagram {
+  bottom: 12vh;
+}
+
 .flex {
   display: flex;
 }
@@ -82,7 +87,6 @@
 }
 
 .kofi {
-  bottom: 12vh;
   left: 24vh;
 }
 
@@ -97,7 +101,6 @@
 }
 
 .instagram {
-  bottom: 12vh;
   left: -32.5vh;
 }
 
